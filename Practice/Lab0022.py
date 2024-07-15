@@ -1,3 +1,4 @@
+#exceptation practice
 print("----- Start of the program -----")
 try:
     a = int(input("\n Enter the num1"))
